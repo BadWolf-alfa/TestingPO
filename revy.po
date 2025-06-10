@@ -1,0 +1,4017 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Revy\n"
+"POT-Creation-Date: 2023-10-09 10:54+0700\n"
+"PO-Revision-Date: 2023-07-27 08:01+0700\n"
+"Last-Translator: \n"
+"Language-Team: roninwp\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_attr__;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/ajax/class-revy-ajax-handlers.php:983
+#: inc/ajax/class-revy-ajax-handlers.php:998
+#: inc/db/class-revy-db-bookings.php:1179
+#: inc/db/class-revy-db-bookings.php:1580
+#: inc/db/class-revy-db-bookings.php:1660
+#: inc/db/class-revy-db-bookings.php:1703
+#: inc/db/class-revy-db-bookings.php:1849
+#: inc/payment/class-revy-payment.php:352
+#: inc/payment/class-revy-payment.php:404
+#: inc/payment/class-revy-payment.php:412
+msgid "Data invalid"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:219 inc/utils/class-revy-utils.php:167
+msgid "Fixit Home"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:220 inc/utils/class-revy-utils.php:168
+msgid "Carry In"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:221 inc/utils/class-revy-utils.php:169
+msgid "Mail In"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:710 inc/db/class-revy-db-bookings.php:863
+#: inc/db/class-revy-db-bookings.php:1114
+#: inc/db/class-revy-db-bookings.php:1168
+msgid "Invalid data"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:752
+msgid "You can not booking before "
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:752
+msgid " day(s)"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:788
+msgid "Please fill data for first name, last name and email"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:828
+msgid ""
+"Cannot add customer information, please contact site admin for this error"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1031
+msgid "Customer:"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1032 inc/utils/class-revy-utils.php:222
+msgid "Service:"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1041
+msgid "Time:"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1152
+#: inc/db/class-revy-db-bookings.php:1162
+msgid "Cannot find this booking.Maybe it have been deleted"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1162
+msgid "Booking status have been updated"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1344
+msgid " booking(s) have been deleted"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1350
+#: inc/db/class-revy-db-bookings.php:2047
+#: inc/db/class-revy-db-employees.php:165
+#: inc/db/class-revy-db-employees.php:184 inc/db/class-revy-db-models.php:348
+#: inc/db/class-revy-db-models.php:354 inc/db/class-revy-db-services.php:139
+#: inc/db/class-revy-db-services.php:145 inc/db/class-revy-db-services.php:661
+#: inc/db/class-revy-db-setting.php:500 inc/db/class-revy-db-setting.php:558
+#: inc/db/class-revy-db-setting.php:694 inc/payment/class-revy-wc.php:490
+msgid "Data is invalid"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1358
+msgid ""
+"The appointments are fully booked. Please check again later or browse other "
+"day !"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1379
+msgid "The number of device exceeds the number that can be serviced"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1533
+#: inc/menu/class-revy-menu-admin.php:443
+#: shortcodes/class-revy-shortcodes.php:337 templates/admin/booking.php:105
+#: templates/admin/calendar.php:76 templates/admin/insight.php:63
+#: templates/admin/pickup.php:76 templates/shortcodes/history.php:51
+#: tmpl/booking/tmpl-booking.php:340 tmpl/booking/tmpl-booking.php:352
+#: tmpl/pickup/tmpl-pickup.php:36 tmpl/pickup/tmpl-pickup.php:48
+#: tmpl/settings/tmpl-setting.php:179
+msgid "Pending"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1534
+#: inc/menu/class-revy-menu-admin.php:444
+#: shortcodes/class-revy-shortcodes.php:338 templates/admin/booking.php:109
+#: templates/admin/calendar.php:80 templates/admin/insight.php:64
+#: templates/admin/pickup.php:80 templates/shortcodes/history.php:55
+#: tmpl/booking/tmpl-booking.php:348 tmpl/pickup/tmpl-pickup.php:44
+#: tmpl/settings/tmpl-setting.php:183
+msgid "Approved"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1535
+#: inc/menu/class-revy-menu-admin.php:415
+#: shortcodes/class-revy-shortcodes.php:349 templates/admin/booking.php:113
+#: templates/admin/calendar.php:84 templates/admin/pickup.php:84
+#: templates/shortcodes/history.php:59 templates/shortcodes/history.php:135
+#: templates/shortcodes/history.php:158 tmpl/booking/tmpl-booking.php:279
+#: tmpl/brands/tmpl-brands.php:106 tmpl/category/tmpl-category.php:89
+#: tmpl/color/tmpl-color.php:33 tmpl/coupon/tmpl-coupon.php:157
+#: tmpl/customers/tmpl-customers.php:126 tmpl/devices/tmpl-devices.php:82
+#: tmpl/garages/tmpl-garages.php:144 tmpl/locations/tmpl-locations.php:81
+#: tmpl/models/tmpl-models.php:218 tmpl/services/tmpl-services.php:814
+#: tmpl/settings/tmpl-email-template.php:33 tmpl/settings/tmpl-setting.php:1154
+#: tmpl/settings/tmpl-setting.php:1238 tmpl/settings/tmpl-setting.php:1475
+#: tmpl/settings/tmpl-setting.php:1571 tmpl/settings/tmpl-setting.php:1740
+#: tmpl/settings/tmpl-setting.php:2202 tmpl/settings/tmpl-setting.php:2745
+#: tmpl/settings/tmpl-setting.php:2848
+msgid "Cancel"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1536
+#: inc/menu/class-revy-menu-admin.php:446
+#: shortcodes/class-revy-shortcodes.php:340 templates/admin/insight.php:65
+#: tmpl/booking/tmpl-booking.php:356 tmpl/pickup/tmpl-pickup.php:52
+msgid "Rejected"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1573
+msgid "Customer code invalid"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1591
+msgid "The reservation cancellation function is locked"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1618
+msgid "You cannot cancel approved appointment"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1641
+msgid "Time limit for cancellation reservations has passed"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1646 tmpl/booking/tmpl-booking.php:274
+msgid "Canceled by client"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1652
+msgid "Booking has been canceled"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1685
+msgid "Service name:"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1759
+#, php-format
+msgid "You cannot book service before %s days"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1767
+msgid "You cannot set time in the past for "
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1788
+msgid "You can not make more appointment in "
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1788 inc/utils/class-revy-utils.php:31
+#: inc/utils/class-revy-utils.php:36 inc/utils/class-revy-utils.php:223
+msgid " minutes"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1838
+msgid "Quote has been saved"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1838
+#: inc/menu/class-revy-menu-admin.php:351
+#: shortcodes/class-revy-shortcodes.php:138
+#: shortcodes/class-revy-shortcodes.php:262
+#: shortcodes/class-revy-shortcodes.php:334
+msgid "An error occurred during execution"
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:1922
+#: shortcodes/class-revy-shortcodes.php:306
+msgid "The file size is too large, please choose another file < "
+msgstr ""
+
+#: inc/db/class-revy-db-bookings.php:2047
+msgid " quote have been deleted"
+msgstr ""
+
+#: inc/db/class-revy-db-brands.php:115 inc/db/class-revy-db-coupons.php:119
+#: inc/db/class-revy-db-customers.php:105 inc/db/class-revy-db-devices.php:79
+#: inc/db/class-revy-db-employees.php:146 inc/db/class-revy-db-garages.php:156
+#: inc/db/class-revy-db-locations.php:71 inc/db/class-revy-db-models.php:215
+#: inc/db/class-revy-db-models.php:390 inc/db/class-revy-db-services.php:123
+#: inc/db/class-revy-db-services.php:609 inc/db/class-revy-db-setting.php:304
+#: inc/db/class-revy-db-setting.php:326 inc/db/class-revy-db-setting.php:746
+msgid "Please input data for field"
+msgstr ""
+
+#: inc/db/class-revy-db-coupons.php:82
+msgid "Expire date need bigger than start date apply"
+msgstr ""
+
+#: inc/db/class-revy-db-coupons.php:99
+msgid "This code has been used. Please use another code"
+msgstr ""
+
+#: inc/db/class-revy-db-coupons.php:168
+msgid "You cannot delete coupon(s) because it has been used"
+msgstr ""
+
+#: inc/db/class-revy-db-coupons.php:184
+msgid " coupon(s) have been deleted"
+msgstr ""
+
+#: inc/db/class-revy-db-coupons.php:185
+msgid " coupon(s) can not delete because it has been used"
+msgstr ""
+
+#: inc/db/class-revy-db-coupons.php:204 inc/utils/class-revy-utils.php:129
+msgid "The coupon is invalid"
+msgstr ""
+
+#: inc/db/class-revy-db-customers.php:84
+msgid "This email has been used for another customer. Please use another email"
+msgstr ""
+
+#: inc/db/class-revy-db-customers.php:159
+msgid "You cannot delete customer(s) because exist order for this customer(s)"
+msgstr ""
+
+#: inc/db/class-revy-db-customers.php:176
+msgid " customer(s) have been deleted"
+msgstr ""
+
+#: inc/db/class-revy-db-customers.php:177
+msgid " customer(s) can not delete because exist order for this customer(s)"
+msgstr ""
+
+#: inc/db/class-revy-db-customers.php:201
+msgid "Request customer code"
+msgstr ""
+
+#: inc/db/class-revy-db-customers.php:230
+#, php-format
+msgid "Customer code has been send to %s. Please check your mailbox"
+msgstr ""
+
+#: inc/db/class-revy-db-customers.php:235
+msgid "An error occurred while sending mail"
+msgstr ""
+
+#: inc/db/class-revy-db-customers.php:242
+msgid ""
+"This email does not exist with us. Please use the email ID that you used for "
+"booking"
+msgstr ""
+
+#: inc/db/class-revy-db-customers.php:248
+msgid "Please input email to get code"
+msgstr ""
+
+#: inc/db/class-revy-db-employees.php:134
+msgid "User already exists. Please use another email"
+msgstr ""
+
+#: inc/db/class-revy-db-employees.php:160
+msgid "Employee has been enabled"
+msgstr ""
+
+#: inc/db/class-revy-db-employees.php:160
+msgid "Employee has been disabled"
+msgstr ""
+
+#: inc/db/class-revy-db-employees.php:179
+msgid "Employee has been deleted"
+msgstr ""
+
+#: inc/db/class-revy-db-employees.php:179
+msgid "Can not find employee, it may have been deleted by another user"
+msgstr ""
+
+#: inc/db/class-revy-db-garages.php:173
+msgid "You need to delete appointments related to this garage"
+msgstr ""
+
+#: inc/db/class-revy-db-garages.php:182
+msgid "Model have been deleted"
+msgstr ""
+
+#: inc/db/class-revy-db-models.php:232
+msgid " model(s) have been deleted"
+msgstr ""
+
+#: inc/db/class-revy-db-services.php:632
+msgid ""
+"You can't delete service because an appointment has been made for this "
+"service. \\r Please uncheck Publish to frontend "
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:57 templates/admin/category.php:44
+#: templates/admin/models.php:96
+#: templates/shortcodes/partials/pdf-content.php:130
+#: templates/shortcodes/partials/repair-summary.php:5
+#: tmpl/booking/tmpl-booking.php:23 tmpl/category/tmpl-category.php:21
+#: tmpl/category/tmpl-category.php:110 tmpl/models/tmpl-models.php:151
+#: tmpl/models/tmpl-models.php:253
+msgid "Device"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:58
+#: templates/shortcodes/partials/devices.php:8
+msgid "Choose your brand"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:59
+#: templates/shortcodes/partials/devices.php:9
+msgid "Choose your model"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:60
+#: templates/shortcodes/partials/pdf-content.php:131
+#: templates/shortcodes/partials/repair-summary.php:6
+#: tmpl/booking/tmpl-booking.php:48 tmpl/booking/tmpl-booking.php:385
+msgid "Service"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:61 inc/menu/class-revy-menu-admin.php:449
+#: templates/shortcodes/partials/repair-summary.php:7
+#: tmpl/booking/tmpl-booking.php:17
+msgid "Garage"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:62
+#: templates/shortcodes/partials/customer-info.php:6
+#: templates/shortcodes/quote_form.php:4 tmpl/booking/tmpl-booking.php:132
+msgid "Serial number (or IMEI)"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:63 templates/admin/models.php:14
+#: templates/shortcodes/partials/customer-info.php:5
+#: tmpl/models/tmpl-models.php:10 tmpl/models/tmpl-models.php:249
+msgid "Group"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:64
+#: templates/shortcodes/partials/repair-summary.php:11
+#: tmpl/booking/tmpl-booking.php:51
+msgid "Tax"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:65
+#: templates/shortcodes/partials/weekly-calendar.php:54
+msgid "Appointment Time"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:66
+#: templates/shortcodes/partials/repair-summary.php:8
+msgid "Total cost"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:67
+#: templates/shortcodes/partials/repair-summary.php:10
+#: tmpl/booking/tmpl-booking.php:213
+msgid "Payment method"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:128
+#: templates/shortcodes/partials/devices.php:10
+msgid "Choose category"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:129
+msgid "Tell us what device you have"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:130
+msgid ""
+"In order to determine which repair solution is best for you, tell us about "
+"your device"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:131
+msgid "Tell us what brand you have"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:132
+msgid ""
+"In order to determine which repair solution is best for you, tell us about "
+"your brand"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:133
+msgid "Tell us what your category model"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:134
+msgid ""
+"In order to determine which repair solution is best for you, tell us about "
+"your category model"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:135
+msgid "Tell us what model you have"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:136
+msgid ""
+"In order to determine which repair solution is best for you, tell us about "
+"your model"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:137
+msgid "Tell us what's broken"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:138
+msgid "What seems to be the problem? If you don't know that is ok too"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:139
+msgid "Select type of service"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:140
+msgid "Let us know delivery"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:141
+msgid "Please choose delivery method"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:142
+msgid "Let us know where you are"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:143
+msgid ""
+"Please enter your postal code to obtain a Technician / Repairer near you"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:144
+msgid "Choose a garage"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:145
+msgid ""
+"Select a garage and we will get you in touch with an expert who can help "
+"with your repair"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:146
+msgid "Let's Schedule Your Repair"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:147
+msgid "We just need a few more details to schedule your repair."
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:148
+msgid "Appointment booked"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:149
+msgid ""
+" Thank you! Your booking is complete. An email with detail of your booking "
+"has been send to you."
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:152
+#: templates/shortcodes/partials/delivery-method.php:7
+#: templates/shortcodes/partials/pdf-content.php:3
+msgid "Fix at home"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:153
+#: templates/shortcodes/partials/delivery-method.php:8
+msgid "We come to you and fix your most common appliance needs at home"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:155
+#: templates/shortcodes/partials/delivery-method.php:13
+msgid "Carry-In/Curbside"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:156
+#: templates/shortcodes/partials/delivery-method.php:14
+#: templates/shortcodes/partials/delivery-method.php:19
+msgid "Visit one of our garages where we can usually repair your device"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:158
+#: templates/shortcodes/partials/delivery-method.php:18
+#: templates/shortcodes/partials/pdf-content.php:9
+msgid "Mail-In Delivery"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:159
+msgid ""
+"Send your device to our mail-in repair facility and repair updates from our "
+"expert"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:347
+msgid "Please input data"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:703
+msgid "Test mail from Repair Booking plugin"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:704
+msgid ""
+"This is email from Repair Booking plugin. This send with purpose for test "
+"mail config"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:709
+msgid "Please input data for notification setting and save before test"
+msgstr ""
+
+#: inc/db/class-revy-db-setting.php:729
+msgid ""
+"This is SMS from Revy plugin. This send with purpose for test sms config"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:12 inc/menu/class-revy-menu-admin.php:13
+msgid "Revy"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:22 inc/menu/class-revy-menu-admin.php:23
+#: templates/admin/insight.php:11
+msgid "Insight"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:30 inc/menu/class-revy-menu-admin.php:31
+#: templates/admin/devices.php:11 tmpl/brands/tmpl-brands.php:59
+msgid "Devices"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:39 inc/menu/class-revy-menu-admin.php:40
+#: templates/admin/brands.php:13
+msgid "Brands"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:48 inc/menu/class-revy-menu-admin.php:49
+msgid "Models Category"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:57 inc/menu/class-revy-menu-admin.php:58
+#: templates/admin/color.php:15
+msgid "Models Color"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:66 inc/menu/class-revy-menu-admin.php:67
+#: templates/admin/booking.php:179 templates/admin/models.php:18
+#: templates/admin/pickup.php:148 tmpl/booking/tmpl-booking.php:316
+msgid "Models"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:75 inc/menu/class-revy-menu-admin.php:76
+#: templates/admin/garages.php:12 tmpl/services/tmpl-services.php:249
+msgid "Garages"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:85 inc/menu/class-revy-menu-admin.php:86
+#: inc/menu/class-revy-menu-admin.php:460
+#: inc/menu/class-revy-menu-admin.php:472 templates/admin/pickup.php:149
+#: templates/admin/services.php:19 templates/shortcodes/history.php:87
+#: templates/shortcodes/history.php:122 tmpl/pickup/tmpl-pickup.php:26
+msgid "Services"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:94 inc/menu/class-revy-menu-admin.php:95
+#: templates/admin/customers.php:16 tmpl/booking/tmpl-booking.php:64
+msgid "Customers"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:103
+#: inc/menu/class-revy-menu-admin.php:104
+#: templates/shortcodes/partials/repair-summary.php:44
+msgid "Coupon"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:113
+#: inc/menu/class-revy-menu-admin.php:114
+msgid "Booking"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:122
+#: inc/menu/class-revy-menu-admin.php:123
+#: templates/shortcodes/partials/brands.php:32
+#: templates/shortcodes/partials/category.php:22
+#: templates/shortcodes/partials/devices.php:144
+#: templates/shortcodes/partials/models.php:36
+#: templates/shortcodes/quote_form.php:12
+msgid "Quote Form"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:131
+#: inc/menu/class-revy-menu-admin.php:132 templates/admin/calendar.php:11
+msgid "Calendar"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:140
+#: inc/menu/class-revy-menu-admin.php:141
+msgid "Email template"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:149
+#: inc/menu/class-revy-menu-admin.php:150
+msgid "SMS template"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:158
+#: inc/menu/class-revy-menu-admin.php:159 templates/admin/settings.php:11
+msgid "Settings"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:352
+msgid "The shortcode has been copied to the clipboard"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:354
+#: inc/menu/class-revy-menu-admin.php:474
+#: shortcodes/class-revy-shortcodes.php:141
+#: shortcodes/class-revy-shortcodes.php:265 tmpl/services/tmpl-services.php:835
+#: tmpl/services/tmpl-services.php:871 tmpl/settings/tmpl-setting.php:68
+#: tmpl/settings/tmpl-setting.php:205 tmpl/settings/tmpl-setting.php:249
+#: tmpl/settings/tmpl-setting.php:274 tmpl/settings/tmpl-setting.php:2815
+#: tmpl/settings/tmpl-setting.php:2819 tmpl/settings/tmpl-setting.php:2979
+#: tmpl/settings/tmpl-setting.php:2983
+msgid "No"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:355
+#: inc/menu/class-revy-menu-admin.php:473
+#: shortcodes/class-revy-shortcodes.php:142
+#: shortcodes/class-revy-shortcodes.php:266 tmpl/services/tmpl-services.php:838
+#: tmpl/services/tmpl-services.php:869 tmpl/settings/tmpl-setting.php:71
+#: tmpl/settings/tmpl-setting.php:208 tmpl/settings/tmpl-setting.php:252
+#: tmpl/settings/tmpl-setting.php:277 tmpl/settings/tmpl-setting.php:2821
+#: tmpl/settings/tmpl-setting.php:2985
+msgid "Yes"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:356
+#: shortcodes/class-revy-shortcodes.php:143
+#: shortcodes/class-revy-shortcodes.php:267 templates/admin/calendar.php:102
+#: templates/shortcodes/partials/auto-translate.php:26
+msgid "Loading"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:357
+msgid "Confirm delete"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:358
+msgid "Are you sure you want to delete this item ?"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:359
+msgid "Confirm update appointment"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:360
+msgid "Are you sure you want to reschedule this appointment ?"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:361
+msgid "Confirm update"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:362
+msgid ""
+"Your changes related to specific settings for each employee. Do you want to "
+"update employee settings according to this setting ?"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:363
+#: shortcodes/class-revy-shortcodes.php:335
+msgid "No records found"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:365
+#: shortcodes/class-revy-shortcodes.php:147
+#: shortcodes/class-revy-shortcodes.php:271
+msgid "Please select service and input coupon code"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:366
+msgid "Value should be above "
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:367
+msgid "Value should be bellow  "
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:369
+msgid "Edit device"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:370
+msgid "Edit brand"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:371
+msgid "Edit model"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:372
+msgid "Clone model"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:373
+msgid "Edit category"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:374
+msgid "Edit color"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:375
+msgid "Edit service"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:376
+msgid "Clone service"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:377
+msgid "Edit service extra"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:378
+msgid "Edit employee"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:379
+msgid "Clone employee"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:380
+msgid "Edit customer"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:381
+msgid "Edit location"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:382
+msgid "Edit coupon"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:383
+msgid "Edit booking"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:384
+msgid "Edit calendar"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:391
+msgid "Su"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:392
+msgid "Mo"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:393
+msgid "Tu"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:394
+msgid "We"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:395
+msgid "Th"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:396
+msgid "Fr"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:397
+msgid "Sa"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:400
+#: inc/menu/class-revy-menu-admin.php:418
+msgid "January"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:401
+#: inc/menu/class-revy-menu-admin.php:419
+msgid "February"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:402
+#: inc/menu/class-revy-menu-admin.php:420
+msgid "March"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:403
+#: inc/menu/class-revy-menu-admin.php:421
+msgid "April"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:404
+#: inc/menu/class-revy-menu-admin.php:422
+msgid "May"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:405
+#: inc/menu/class-revy-menu-admin.php:423
+msgid "June"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:406
+#: inc/menu/class-revy-menu-admin.php:424
+msgid "July"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:407
+#: inc/menu/class-revy-menu-admin.php:425
+msgid "August"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:408
+#: inc/menu/class-revy-menu-admin.php:426
+msgid "September"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:409
+#: inc/menu/class-revy-menu-admin.php:427
+msgid "October"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:410
+#: inc/menu/class-revy-menu-admin.php:428
+msgid "November"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:411
+#: inc/menu/class-revy-menu-admin.php:429
+msgid "December"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:414
+#: shortcodes/class-revy-shortcodes.php:348
+msgid "Apply"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:416
+#: shortcodes/class-revy-shortcodes.php:350
+msgid "From"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:417
+#: shortcodes/class-revy-shortcodes.php:351
+msgid "To"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:438 tmpl/coupon/tmpl-coupon.php:38
+#: tmpl/coupon/tmpl-coupon.php:182
+msgid "Percentage discount"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:439 tmpl/coupon/tmpl-coupon.php:39
+#: tmpl/coupon/tmpl-coupon.php:184
+msgid "Fixed discount"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:445
+#: shortcodes/class-revy-shortcodes.php:339 tmpl/booking/tmpl-booking.php:344
+#: tmpl/pickup/tmpl-pickup.php:40
+msgid "Canceled"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:447 templates/admin/booking.php:165
+#: templates/shortcodes/history.php:85 templates/shortcodes/history.php:118
+#: tmpl/booking/tmpl-booking.php:302
+msgid "Appointment Date"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:448 templates/admin/booking.php:171
+#: templates/admin/pickup.php:140 templates/admin/quote.php:51
+#: templates/shortcodes/history.php:130 tmpl/booking/tmpl-booking.php:310
+#: tmpl/pickup/tmpl-pickup.php:19 tmpl/quote/tmpl-quote.php:108
+msgid "Create Date"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:450
+msgid "Garage Address"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:451 templates/admin/booking.php:173
+#: templates/admin/pickup.php:142 templates/admin/quote.php:52
+#: tmpl/booking/tmpl-booking.php:311 tmpl/pickup/tmpl-pickup.php:20
+#: tmpl/quote/tmpl-quote.php:109
+msgid "Customer"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:452
+msgid "Customer Email"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:453
+msgid "Customer Phone"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:454
+msgid "Customer Address"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:455
+msgid "Customer City"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:456
+msgid "Customer Country"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:457
+msgid "Customer Postal Code"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:458
+#: inc/menu/class-revy-menu-admin.php:476 templates/admin/pickup.php:150
+#: templates/shortcodes/history.php:88 templates/shortcodes/history.php:123
+#: tmpl/booking/tmpl-booking.php:49 tmpl/booking/tmpl-booking.php:387
+#: tmpl/pickup/tmpl-pickup.php:27
+msgid "Attribute"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:459 templates/admin/quote.php:55
+#: templates/admin/services.php:88 templates/shortcodes/history.php:86
+#: templates/shortcodes/history.php:119 templates/shortcodes/quote_form.php:137
+#: templates/shortcodes/quote_form.php:139 tmpl/booking/tmpl-booking.php:38
+#: tmpl/pickup/tmpl-pickup.php:25 tmpl/quote/tmpl-quote.php:56
+#: tmpl/quote/tmpl-quote.php:120 tmpl/services/tmpl-services.php:858
+msgid "Model"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:461
+msgid "Start time"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:462
+msgid "End time"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:463 templates/admin/pickup.php:151
+#: templates/admin/services.php:89 tmpl/booking/tmpl-booking.php:386
+#: tmpl/pickup/tmpl-pickup.php:28 tmpl/services/tmpl-services.php:95
+#: tmpl/services/tmpl-services.php:861
+msgid "Duration"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:464 templates/admin/booking.php:182
+#: templates/shortcodes/history.php:89 templates/shortcodes/history.php:124
+#: tmpl/booking/tmpl-booking.php:325
+msgid "Payment"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:465 templates/admin/booking.php:183
+#: templates/admin/garages.php:53 templates/admin/models.php:99
+#: templates/admin/pickup.php:152 templates/admin/services.php:91
+#: templates/shortcodes/history.php:90 templates/shortcodes/history.php:127
+#: tmpl/booking/tmpl-booking.php:328 tmpl/garages/tmpl-garages.php:182
+#: tmpl/models/tmpl-models.php:265 tmpl/pickup/tmpl-pickup.php:31
+msgid "Status"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:466
+msgid "Custom fields"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:467
+msgid "You need enable at least one payment method"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:468
+msgid "New Customer"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:469
+msgid "Return Customer"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:470 templates/admin/insight.php:67
+msgid "Revenue"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:471
+msgid "Employee"
+msgstr ""
+
+#: inc/menu/class-revy-menu-admin.php:479
+msgid "Time slot not available"
+msgstr ""
+
+#: inc/payment/class-revy-payment.php:67
+msgid "Please input Paypal Client ID and Secret"
+msgstr ""
+
+#: inc/payment/class-revy-payment.php:120
+msgid "Cannot get access token. Please check Paypal's clientID and secret"
+msgstr ""
+
+#: inc/payment/class-revy-wc.php:95 inc/payment/class-revy-wc.php:110
+#: inc/payment/class-revy-wc.php:362
+msgid "Time: "
+msgstr ""
+
+#: inc/payment/class-revy-wc.php:363
+msgid "Booking ID: "
+msgstr ""
+
+#: inc/payment/class-revy-wc.php:377
+msgid "WooCommerce is not installed or activated"
+msgstr ""
+
+#: inc/payment/class-revy-wc.php:469
+msgid "Cart and checkout page not found"
+msgstr ""
+
+#: inc/payment/class-revy-wc.php:470
+msgid "Can not add service to cart"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:34
+msgid "1 hour"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:34 inc/utils/class-revy-utils.php:36
+msgid " hours"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:85
+msgid "This coupons has expired"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:92
+msgid "This coupon only apply from: "
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:102 inc/utils/class-revy-utils.php:113
+msgid "The coupon don' apply for this service"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:223
+msgid "Duration:"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:224
+msgid "Price:"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:257
+msgid "Please input value for send_to and message"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:273 inc/utils/class-revy-utils.php:373
+msgid "Email has been send, please check your mailbox"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:273 inc/utils/class-revy-utils.php:368
+#: inc/utils/class-revy-utils.php:382
+msgid "An error occurred when sending mail"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:291
+msgid ""
+"Please input data for smtp host, smtp port, username, password and save "
+"before test"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:347
+#, php-format
+msgid "Email has been send, please check your (%s) mailbox"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:806
+msgid "You cannot delete or update records assigned for others"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:863
+msgid "Undefined dirname."
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:868
+msgid "Undefined extension."
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:873
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:991 inc/utils/class-revy-utils.php:1038
+msgid "SMS has been send"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:998 inc/utils/class-revy-utils.php:1045
+msgid ""
+"An error occurred when sending sms. Please check sms config or phone number"
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:1005
+msgid ""
+"Please fill SMS Provider,Account SID, Authen Token befote test send SMS "
+msgstr ""
+
+#: inc/utils/class-revy-utils.php:1051 inc/utils/class-revy-utils.php:1057
+msgid ""
+"Please fill SMS Provider,Account SID, Authen Token before test send SMS "
+msgstr ""
+
+#: revy.php:198
+msgid "Data has been deleted"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:114
+#: shortcodes/class-revy-shortcodes.php:255
+msgid "person(s)"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:145
+#: shortcodes/class-revy-shortcodes.php:269
+#: templates/shortcodes/partials/garages.php:37
+msgid "Change Location"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:146
+#: shortcodes/class-revy-shortcodes.php:270
+#: templates/shortcodes/partials/auto-translate.php:5
+msgid "Change Delivery Method"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:148
+#: shortcodes/class-revy-shortcodes.php:272
+#: templates/shortcodes/partials/weekly-calendar.php:65
+msgid ""
+"The appointments are fully booked. Please check again later or browse other "
+"day!"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:149
+msgid "Service not found.<br\\/> You can select other type"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:150
+#: shortcodes/class-revy-shortcodes.php:274
+msgid "You need to choose a payment method"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:151
+#: shortcodes/class-revy-shortcodes.php:275
+#: templates/shortcodes/partials/auto-translate.php:27
+msgid "Please select duration"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:155
+#: shortcodes/class-revy-shortcodes.php:279
+#: templates/shortcodes/partials/weekly-calendar.php:26
+msgid "Mon"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:156
+#: shortcodes/class-revy-shortcodes.php:280
+#: templates/shortcodes/partials/weekly-calendar.php:30
+msgid "Tue"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:157
+#: shortcodes/class-revy-shortcodes.php:281
+#: templates/shortcodes/partials/weekly-calendar.php:34
+msgid "Wed"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:158
+#: shortcodes/class-revy-shortcodes.php:282
+#: templates/shortcodes/partials/weekly-calendar.php:38
+msgid "Thu"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:159
+#: shortcodes/class-revy-shortcodes.php:283
+#: templates/shortcodes/partials/weekly-calendar.php:42
+msgid "Fri"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:160
+#: shortcodes/class-revy-shortcodes.php:284
+#: templates/shortcodes/partials/weekly-calendar.php:46
+msgid "Sat"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:161
+#: shortcodes/class-revy-shortcodes.php:285
+#: templates/shortcodes/partials/weekly-calendar.php:21
+msgid "Sun"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:172
+#: shortcodes/class-revy-shortcodes.php:295
+#: templates/shortcodes/partials/auto-translate.php:28
+msgid "Please select a date to display free times"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:173
+#: shortcodes/class-revy-shortcodes.php:296
+#: templates/shortcodes/partials/auto-translate.php:29
+msgid "Model not found"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:174
+#: shortcodes/class-revy-shortcodes.php:297
+#: templates/shortcodes/partials/auto-translate.php:30
+msgid "Service not found"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:175
+#: shortcodes/class-revy-shortcodes.php:298
+#: templates/shortcodes/partials/auto-translate.php:31
+msgid "Garages not found"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:176
+#: shortcodes/class-revy-shortcodes.php:299
+#: templates/shortcodes/partials/auto-translate.php:32
+msgid ""
+"Thank you! Your booking is complete. We will contact you as soon as possible."
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:182
+#: shortcodes/class-revy-shortcodes.php:305
+msgid "Please check accept term and conditions before submit"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:273
+msgid "Service not found.<br\\/> You can select other location or category"
+msgstr ""
+
+#: shortcodes/class-revy-shortcodes.php:336
+msgid "You cannot cancel bookings in the past or after the booking is approved"
+msgstr ""
+
+#: templates/admin/booking.php:11
+msgid "All Bookings"
+msgstr ""
+
+#: templates/admin/booking.php:19 templates/admin/customers.php:23
+#: templates/admin/pickup.php:19 templates/admin/quote.php:20
+msgid "Search name or email ..."
+msgstr ""
+
+#: templates/admin/booking.php:47 templates/admin/calendar.php:38
+#: templates/admin/insight.php:37 tmpl/services/tmpl-services.php:256
+msgid "Select garage"
+msgstr ""
+
+#: templates/admin/booking.php:48 templates/admin/calendar.php:39
+#: templates/admin/insight.php:38
+msgid "Garage selected"
+msgstr ""
+
+#: templates/admin/booking.php:49 templates/admin/calendar.php:40
+#: templates/admin/insight.php:39
+msgid "Enter garage's name"
+msgstr ""
+
+#: templates/admin/booking.php:56 templates/admin/calendar.php:58
+#: templates/admin/pickup.php:47
+msgid "Select services"
+msgstr ""
+
+#: templates/admin/booking.php:57 templates/admin/calendar.php:59
+#: templates/admin/pickup.php:48
+msgid "Enter service's name"
+msgstr ""
+
+#: templates/admin/booking.php:58 templates/admin/pickup.php:49
+msgid "Sevices selected"
+msgstr ""
+
+#: templates/admin/booking.php:66 templates/admin/pickup.php:57
+msgid "Select customers"
+msgstr ""
+
+#: templates/admin/booking.php:67 templates/admin/calendar.php:50
+#: templates/admin/pickup.php:58
+msgid "Enter customer's name"
+msgstr ""
+
+#: templates/admin/booking.php:68 templates/admin/pickup.php:59
+msgid "Customers selected"
+msgstr ""
+
+#: templates/admin/booking.php:77
+msgid "Select delivery method"
+msgstr ""
+
+#: templates/admin/booking.php:80
+msgid "All delivery method"
+msgstr ""
+
+#: templates/admin/booking.php:83
+msgid "Fixit home"
+msgstr ""
+
+#: templates/admin/booking.php:86
+msgid "Carry in"
+msgstr ""
+
+#: templates/admin/booking.php:89
+msgid "Mail-in"
+msgstr ""
+
+#: templates/admin/booking.php:97 templates/admin/calendar.php:68
+#: templates/admin/pickup.php:68 templates/shortcodes/history.php:46
+#: tmpl/settings/tmpl-setting.php:175
+msgid "Select status"
+msgstr ""
+
+#: templates/admin/booking.php:101 templates/admin/calendar.php:72
+#: templates/admin/pickup.php:72
+msgid "All status"
+msgstr ""
+
+#: templates/admin/booking.php:117 templates/admin/calendar.php:88
+#: templates/admin/pickup.php:88 templates/shortcodes/history.php:63
+msgid "Reject"
+msgstr ""
+
+#: templates/admin/booking.php:129 templates/admin/pickup.php:100
+msgid " Canceled"
+msgstr ""
+
+#: templates/admin/booking.php:133 templates/admin/pickup.php:104
+msgid " Approved"
+msgstr ""
+
+#: templates/admin/booking.php:137 templates/admin/pickup.php:108
+msgid " Pending"
+msgstr ""
+
+#: templates/admin/booking.php:141 templates/admin/pickup.php:112
+msgid " Rejected"
+msgstr ""
+
+#: templates/admin/booking.php:147 templates/admin/pickup.php:118
+msgid "Export booking"
+msgstr ""
+
+#: templates/admin/booking.php:152 templates/admin/coupons.php:33
+#: templates/admin/customers.php:38 templates/admin/models.php:71
+#: templates/admin/pickup.php:127 templates/admin/services.php:67
+#: tmpl/booking/tmpl-booking.php:371 tmpl/brands/tmpl-brands.php:139
+#: tmpl/category/tmpl-category.php:124 tmpl/color/tmpl-color.php:60
+#: tmpl/coupon/tmpl-coupon.php:195 tmpl/customers/tmpl-customers.php:170
+#: tmpl/devices/tmpl-devices.php:113 tmpl/garages/tmpl-garages.php:191
+#: tmpl/locations/tmpl-locations.php:120 tmpl/models/tmpl-models.php:274
+#: tmpl/pickup/tmpl-pickup.php:58 tmpl/quote/tmpl-quote.php:172
+#: tmpl/services/tmpl-services.php:877
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/booking.php:180 templates/admin/settings.php:88
+#: tmpl/booking/tmpl-booking.php:319
+msgid "Delivery method"
+msgstr ""
+
+#: templates/admin/booking.php:181
+#: templates/shortcodes/partials/pdf-content.php:150
+#: templates/shortcodes/partials/repair-summary.php:77
+#: tmpl/booking/tmpl-booking.php:322
+msgid "Delivery fee"
+msgstr ""
+
+#: templates/admin/brands.php:24
+msgid "Add Brand"
+msgstr ""
+
+#: templates/admin/calendar.php:48
+msgid "Select customer"
+msgstr ""
+
+#: templates/admin/calendar.php:49
+msgid "Customer selected"
+msgstr ""
+
+#: templates/admin/calendar.php:60
+msgid "Services selected"
+msgstr ""
+
+#: templates/admin/category.php:15
+msgid "Services Category"
+msgstr ""
+
+#: templates/admin/category.php:28
+msgid "Add category"
+msgstr ""
+
+#: templates/admin/category.php:41 templates/admin/color.php:41
+#: templates/shortcodes/quote_form.php:172 tmpl/category/tmpl-category.php:106
+#: tmpl/color/tmpl-color.php:50
+msgid "Image"
+msgstr ""
+
+#: templates/admin/category.php:47 templates/admin/models.php:97
+#: tmpl/booking/tmpl-booking.php:32 tmpl/category/tmpl-category.php:45
+#: tmpl/category/tmpl-category.php:114 tmpl/models/tmpl-models.php:172
+#: tmpl/models/tmpl-models.php:257
+msgid "Brand"
+msgstr ""
+
+#: templates/admin/category.php:50 templates/admin/color.php:44
+#: templates/admin/customers.php:54 templates/admin/garages.php:46
+#: templates/admin/models.php:91 templates/admin/services.php:86
+#: tmpl/brands/tmpl-brands.php:22 tmpl/category/tmpl-category.php:70
+#: tmpl/category/tmpl-category.php:118 tmpl/customers/tmpl-customers.php:149
+#: tmpl/devices/tmpl-devices.php:22 tmpl/garages/tmpl-garages.php:166
+#: tmpl/locations/tmpl-locations.php:24 tmpl/models/tmpl-models.php:245
+#: tmpl/services/tmpl-services.php:54 tmpl/services/tmpl-services.php:855
+#: tmpl/settings/tmpl-setting.php:1175
+msgid "Name"
+msgstr ""
+
+#: templates/admin/color.php:28
+msgid "Add color"
+msgstr ""
+
+#: templates/admin/coupons.php:11
+msgid "Coupons"
+msgstr ""
+
+#: templates/admin/coupons.php:19
+msgid "Search code ..."
+msgstr ""
+
+#: templates/admin/coupons.php:28
+msgid "Add coupon"
+msgstr ""
+
+#: templates/admin/coupons.php:48 templates/admin/customers.php:63
+#: tmpl/coupon/tmpl-coupon.php:18 tmpl/coupon/tmpl-coupon.php:179
+#: tmpl/customers/tmpl-customers.php:161
+msgid "Code"
+msgstr ""
+
+#: templates/admin/coupons.php:49 tmpl/coupon/tmpl-coupon.php:30
+#: tmpl/coupon/tmpl-coupon.php:180
+msgid "Discount type"
+msgstr ""
+
+#: templates/admin/coupons.php:50 tmpl/coupon/tmpl-coupon.php:52
+#: tmpl/coupon/tmpl-coupon.php:138 tmpl/coupon/tmpl-coupon.php:187
+msgid "Amount"
+msgstr ""
+
+#: templates/admin/coupons.php:51 tmpl/coupon/tmpl-coupon.php:64
+#: tmpl/coupon/tmpl-coupon.php:188
+msgid "Start apply"
+msgstr ""
+
+#: templates/admin/coupons.php:52 tmpl/coupon/tmpl-coupon.php:189
+msgid "Expire"
+msgstr ""
+
+#: templates/admin/coupons.php:53 tmpl/coupon/tmpl-coupon.php:133
+#: tmpl/coupon/tmpl-coupon.php:190
+msgid "Times to use"
+msgstr ""
+
+#: templates/admin/coupons.php:54 tmpl/coupon/tmpl-coupon.php:191
+msgid "Used"
+msgstr ""
+
+#: templates/admin/customers.php:33
+msgid "Add customer"
+msgstr ""
+
+#: templates/admin/customers.php:60 templates/admin/garages.php:52
+#: templates/shortcodes/partials/customer-info.php:75
+#: templates/shortcodes/partials/customer-info.php:106
+#: templates/shortcodes/quote_form.php:60
+#: templates/shortcodes/quote_form.php:88 tmpl/customers/tmpl-customers.php:69
+#: tmpl/customers/tmpl-customers.php:87 tmpl/customers/tmpl-customers.php:152
+#: tmpl/garages/tmpl-garages.php:71 tmpl/garages/tmpl-garages.php:74
+#: tmpl/garages/tmpl-garages.php:178 tmpl/quote/tmpl-quote.php:35
+#: tmpl/settings/tmpl-setting.php:1208 tmpl/settings/tmpl-setting.php:1211
+msgid "Phone"
+msgstr ""
+
+#: templates/admin/customers.php:61 templates/admin/garages.php:51
+#: templates/shortcodes/partials/customer-info.php:60
+#: templates/shortcodes/partials/customer-info.php:66
+#: templates/shortcodes/quote_form.php:46
+#: templates/shortcodes/quote_form.php:52 tmpl/customers/tmpl-customers.php:48
+#: tmpl/customers/tmpl-customers.php:53 tmpl/customers/tmpl-customers.php:58
+#: tmpl/customers/tmpl-customers.php:155 tmpl/garages/tmpl-garages.php:63
+#: tmpl/garages/tmpl-garages.php:66 tmpl/garages/tmpl-garages.php:174
+#: tmpl/quote/tmpl-quote.php:30 tmpl/settings/tmpl-setting.php:1220
+#: tmpl/settings/tmpl-setting.php:1225
+msgid "Email"
+msgstr ""
+
+#: templates/admin/customers.php:62 tmpl/customers/tmpl-customers.php:158
+msgid "Date of Birth"
+msgstr ""
+
+#: templates/admin/customers.php:65
+msgid "Credit"
+msgstr ""
+
+#: templates/admin/customers.php:67 templates/admin/email-template.php:114
+#: templates/admin/sms-template.php:71
+#: templates/shortcodes/partials/customer-info.php:257
+#: tmpl/booking/tmpl-booking.php:184 tmpl/coupon/tmpl-coupon.php:148
+#: tmpl/customers/tmpl-customers.php:117 tmpl/customers/tmpl-customers.php:164
+#: tmpl/locations/tmpl-locations.php:72
+msgid "Notes"
+msgstr ""
+
+#: templates/admin/devices.php:22
+msgid "Add Device"
+msgstr ""
+
+#: templates/admin/email-template.php:11
+msgid "Email Template"
+msgstr ""
+
+#: templates/admin/email-template.php:21 templates/admin/email-template.php:123
+msgid "Booking Pending Template for Customer (Fixit Home Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:22 templates/admin/email-template.php:145
+msgid "Booking Pending Template for Customer (Carry In Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:23 templates/admin/email-template.php:168
+msgid "Booking Pending Template for Customer (Mail In Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:24 templates/admin/sms-template.php:22
+msgid "Booking Pending Template"
+msgstr ""
+
+#: templates/admin/email-template.php:27
+msgid ""
+"Template email notification when customers book at the homepage for pending "
+"status"
+msgstr ""
+
+#: templates/admin/email-template.php:33
+msgid "Booking Approved Template for Customer (Fixit Home Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:34
+msgid "Booking Approved Template for Customer (Carry In Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:35
+msgid "Booking Approved Template for Customer (Mail In Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:36 templates/admin/sms-template.php:27
+msgid "Booking Approved Template"
+msgstr ""
+
+#: templates/admin/email-template.php:39
+msgid ""
+"Template email notification when customers book at the homepage for approved "
+"status"
+msgstr ""
+
+#: templates/admin/email-template.php:45
+msgid "Booking Rejected Template for Customer (Fixit Home Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:46
+msgid "Booking Rejected Template for Customer (Carry In Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:47
+msgid "Booking Rejected Template for Customer (Mail In Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:48 templates/admin/sms-template.php:32
+msgid "Booking Rejected Template"
+msgstr ""
+
+#: templates/admin/email-template.php:51
+msgid "Template email notification when admin reject booking"
+msgstr ""
+
+#: templates/admin/email-template.php:57
+msgid "Booking Canceled Template for Customer (Fixit Home Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:58
+msgid "Booking Canceled Template for Customer (Carry In Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:59
+msgid "Booking Canceled Template for Customer (Mail In Delivery)"
+msgstr ""
+
+#: templates/admin/email-template.php:60 templates/admin/sms-template.php:37
+msgid "Booking Canceled Template"
+msgstr ""
+
+#: templates/admin/email-template.php:63
+msgid "Template email notification when admin cancel booking"
+msgstr ""
+
+#: templates/admin/email-template.php:68 templates/admin/email-template.php:206
+msgid "Get Customer Code Template"
+msgstr ""
+
+#: templates/admin/email-template.php:71
+msgid "Template email notification when client request get customer code"
+msgstr ""
+
+#: templates/admin/email-template.php:76 templates/admin/email-template.php:234
+msgid "Quote Form Template"
+msgstr ""
+
+#: templates/admin/email-template.php:79
+msgid "Template email notification when client create quote form"
+msgstr ""
+
+#: templates/admin/email-template.php:86 templates/admin/sms-template.php:43
+msgid "Please use keys bellow for email template"
+msgstr ""
+
+#: templates/admin/email-template.php:88 templates/admin/sms-template.php:45
+msgid "time of booking"
+msgstr ""
+
+#: templates/admin/email-template.php:89 templates/admin/sms-template.php:46
+msgid "date of booking"
+msgstr ""
+
+#: templates/admin/email-template.php:90 templates/admin/sms-template.php:47
+msgid "name of garage"
+msgstr ""
+
+#: templates/admin/email-template.php:91 templates/admin/sms-template.php:48
+msgid "address of garage"
+msgstr ""
+
+#: templates/admin/email-template.php:92 templates/admin/sms-template.php:49
+msgid "email of garage"
+msgstr ""
+
+#: templates/admin/email-template.php:93 templates/admin/sms-template.php:50
+msgid "phone of garage"
+msgstr ""
+
+#: templates/admin/email-template.php:94 templates/admin/sms-template.php:51
+msgid "name of brand"
+msgstr ""
+
+#: templates/admin/email-template.php:95 templates/admin/sms-template.php:52
+msgid "name of device"
+msgstr ""
+
+#: templates/admin/email-template.php:96 templates/admin/sms-template.php:53
+msgid "name of model"
+msgstr ""
+
+#: templates/admin/email-template.php:97 templates/admin/sms-template.php:54
+msgid "delivery method"
+msgstr ""
+
+#: templates/admin/email-template.php:98 templates/admin/sms-template.php:55
+msgid ""
+"This is service information (service name, service attribute, duration ...)"
+msgstr ""
+
+#: templates/admin/email-template.php:99 templates/admin/sms-template.php:56
+msgid "total price of booking"
+msgstr ""
+
+#: templates/admin/email-template.php:100 templates/admin/sms-template.php:57
+msgid "customer first name"
+msgstr ""
+
+#: templates/admin/email-template.php:101 templates/admin/sms-template.php:58
+msgid "customer last name"
+msgstr ""
+
+#: templates/admin/email-template.php:102 templates/admin/sms-template.php:59
+msgid "customer address"
+msgstr ""
+
+#: templates/admin/email-template.php:103 templates/admin/sms-template.php:60
+msgid "customer city"
+msgstr ""
+
+#: templates/admin/email-template.php:104 templates/admin/sms-template.php:61
+msgid "customer country"
+msgstr ""
+
+#: templates/admin/email-template.php:105 templates/admin/sms-template.php:62
+msgid "customer postal code"
+msgstr ""
+
+#: templates/admin/email-template.php:106 templates/admin/sms-template.php:63
+msgid "customer phone"
+msgstr ""
+
+#: templates/admin/email-template.php:107 templates/admin/sms-template.php:64
+msgid "customer email"
+msgstr ""
+
+#: templates/admin/email-template.php:108 templates/admin/sms-template.php:65
+msgid "company phone"
+msgstr ""
+
+#: templates/admin/email-template.php:109 templates/admin/sms-template.php:66
+msgid "company name"
+msgstr ""
+
+#: templates/admin/email-template.php:110 templates/admin/sms-template.php:67
+msgid "company address"
+msgstr ""
+
+#: templates/admin/email-template.php:111 templates/admin/sms-template.php:68
+msgid "company email"
+msgstr ""
+
+#: templates/admin/email-template.php:112 templates/admin/sms-template.php:69
+msgid "payment method"
+msgstr ""
+
+#: templates/admin/email-template.php:113 templates/admin/sms-template.php:70
+msgid "Serial number of IMEI"
+msgstr ""
+
+#: templates/admin/email-template.php:115
+msgid "Link PDF file of order"
+msgstr ""
+
+#: templates/admin/email-template.php:124
+msgid "On/Off send email for customer with fixit home delivery"
+msgstr ""
+
+#: templates/admin/email-template.php:133
+#: templates/admin/email-template.php:155
+#: templates/admin/email-template.php:178
+#: templates/admin/email-template.php:210
+#: templates/admin/email-template.php:238
+msgid "Subject"
+msgstr ""
+
+#: templates/admin/email-template.php:139
+#: templates/admin/email-template.php:162
+#: templates/admin/email-template.php:185
+#: templates/admin/email-template.php:216
+#: templates/admin/email-template.php:244 templates/admin/sms-template.php:90
+msgid "Message"
+msgstr ""
+
+#: templates/admin/email-template.php:146
+msgid "On/Off send email for customer with carry in delivery"
+msgstr ""
+
+#: templates/admin/email-template.php:169
+msgid "On/Off send email for customer with mail in delivery"
+msgstr ""
+
+#: templates/admin/email-template.php:193
+msgid "Send test mail"
+msgstr ""
+
+#: templates/admin/email-template.php:197
+#: templates/admin/email-template.php:225
+#: templates/admin/email-template.php:253 templates/admin/sms-template.php:98
+msgid "Please input data "
+msgstr ""
+
+#: templates/admin/email-template.php:198
+#: templates/admin/email-template.php:226
+#: templates/admin/email-template.php:254 templates/admin/sms-template.php:99
+msgid "Template have been saved"
+msgstr ""
+
+#: templates/admin/email-template.php:199
+#: templates/admin/email-template.php:227
+#: templates/admin/email-template.php:255 templates/admin/sms-template.php:100
+#: tmpl/booking/tmpl-booking.php:286 tmpl/brands/tmpl-brands.php:112
+#: tmpl/category/tmpl-category.php:96 tmpl/color/tmpl-color.php:40
+#: tmpl/coupon/tmpl-coupon.php:163 tmpl/customers/tmpl-customers.php:133
+#: tmpl/devices/tmpl-devices.php:87 tmpl/garages/tmpl-garages.php:151
+#: tmpl/locations/tmpl-locations.php:87 tmpl/models/tmpl-models.php:225
+#: tmpl/services/tmpl-services.php:823 tmpl/settings/tmpl-setting.php:1161
+#: tmpl/settings/tmpl-setting.php:1245 tmpl/settings/tmpl-setting.php:1482
+#: tmpl/settings/tmpl-setting.php:1578 tmpl/settings/tmpl-setting.php:1747
+#: tmpl/settings/tmpl-setting.php:2209 tmpl/settings/tmpl-setting.php:2753
+#: tmpl/settings/tmpl-setting.php:2855
+msgid "Save"
+msgstr ""
+
+#: templates/admin/email-template.php:218
+msgid ""
+"Please use keyword {customer_code}, {customer_first_name}, "
+"{customer_last_name} in email template to display customer code in message"
+msgstr ""
+
+#: templates/admin/email-template.php:246
+msgid ""
+"Please use keyword {customer_code}, {customer_first_name}, "
+"{customer_last_name}, {device_type}, {brand_name}, {model}, {color}, "
+"{serial_number}, {detail_problem}, {delivery_method} in email template to "
+"display customer code in message"
+msgstr ""
+
+#: templates/admin/garages.php:19
+msgid "Search garage name ..."
+msgstr ""
+
+#: templates/admin/garages.php:32
+msgid "Add garage"
+msgstr ""
+
+#: templates/admin/garages.php:43 templates/admin/models.php:88
+#: tmpl/garages/tmpl-garages.php:162 tmpl/models/tmpl-models.php:241
+msgid "ID"
+msgstr ""
+
+#: templates/admin/garages.php:49
+msgid "Location"
+msgstr ""
+
+#: templates/admin/insight.php:57
+msgid "Summary"
+msgstr ""
+
+#: templates/admin/insight.php:66
+msgid "Cancelled"
+msgstr ""
+
+#: templates/admin/locations.php:11
+msgid "Locations"
+msgstr ""
+
+#: templates/admin/locations.php:19
+msgid "Search location ..."
+msgstr ""
+
+#: templates/admin/locations.php:28
+msgid "Add location"
+msgstr ""
+
+#: templates/admin/models.php:27
+msgid "Search model name ..."
+msgstr ""
+
+#: templates/admin/models.php:38
+#: templates/shortcodes/partials/progress-bar.php:8
+#: tmpl/category/tmpl-category.php:54 tmpl/models/tmpl-models.php:178
+msgid "Select brand"
+msgstr ""
+
+#: templates/admin/models.php:51
+#: templates/shortcodes/partials/progress-bar.php:12
+#: tmpl/models/tmpl-models.php:58
+msgid "Select category"
+msgstr ""
+
+#: templates/admin/models.php:65
+msgid "Add model"
+msgstr ""
+
+#: templates/admin/models.php:98 tmpl/models/tmpl-models.php:51
+#: tmpl/models/tmpl-models.php:261
+msgid "Category"
+msgstr ""
+
+#: templates/admin/pickup.php:11
+msgid "All Pickup"
+msgstr ""
+
+#: templates/admin/quote.php:11
+msgid "Quote"
+msgstr ""
+
+#: templates/admin/quote.php:53 templates/shortcodes/quote_form.php:112
+#: templates/shortcodes/quote_form.php:115 tmpl/quote/tmpl-quote.php:43
+#: tmpl/quote/tmpl-quote.php:114
+msgid "Device type"
+msgstr ""
+
+#: templates/admin/quote.php:54 templates/shortcodes/quote_form.php:123
+#: templates/shortcodes/quote_form.php:126 tmpl/brands/tmpl-brands.php:26
+#: tmpl/quote/tmpl-quote.php:48 tmpl/quote/tmpl-quote.php:117
+msgid "Brand name"
+msgstr ""
+
+#: templates/admin/quote.php:56 templates/shortcodes/quote_form.php:143
+#: templates/shortcodes/quote_form.php:145 tmpl/models/tmpl-models.php:94
+#: tmpl/quote/tmpl-quote.php:61 tmpl/quote/tmpl-quote.php:123
+msgid "Color"
+msgstr ""
+
+#: templates/admin/quote.php:57 tmpl/quote/tmpl-quote.php:69
+#: tmpl/quote/tmpl-quote.php:126
+msgid "Serial"
+msgstr ""
+
+#: templates/admin/services.php:27
+msgid "Search service name ..."
+msgstr ""
+
+#: templates/admin/services.php:37
+#: templates/shortcodes/partials/progress-bar.php:16
+#: tmpl/services/tmpl-services.php:77
+msgid "Select model"
+msgstr ""
+
+#: templates/admin/services.php:48
+msgid "Select garages"
+msgstr ""
+
+#: templates/admin/services.php:62
+msgid "Add service"
+msgstr ""
+
+#: templates/admin/services.php:90 tmpl/services/tmpl-services.php:864
+msgid "Max Slot"
+msgstr ""
+
+#: templates/admin/settings.php:24
+msgid "General Settings"
+msgstr ""
+
+#: templates/admin/settings.php:26
+msgid ""
+"Use this setting to set up day limit, tax default, booking default status, "
+"item per page"
+msgstr ""
+
+#: templates/admin/settings.php:40
+msgid "Company"
+msgstr ""
+
+#: templates/admin/settings.php:42
+msgid "Use this setting to set up your company logo, name, address, phone"
+msgstr ""
+
+#: templates/admin/settings.php:56
+msgid "Email notification"
+msgstr ""
+
+#: templates/admin/settings.php:58
+msgid "Use this setting to set up send mail and action after booking"
+msgstr ""
+
+#: templates/admin/settings.php:72
+msgid "SMS notification"
+msgstr ""
+
+#: templates/admin/settings.php:74
+msgid "Use this setting to set up send SMS and action after booking"
+msgstr ""
+
+#: templates/admin/settings.php:90
+msgid "Use this setting to set up delivery method in booking form"
+msgstr ""
+
+#: templates/admin/settings.php:104
+msgid "Payments"
+msgstr ""
+
+#: templates/admin/settings.php:106
+msgid "Use this setting to set up currency, paypal, stripe and onsite payment"
+msgstr ""
+
+#: templates/admin/settings.php:120
+msgid "Working hours"
+msgstr ""
+
+#: templates/admin/settings.php:122
+msgid "Use this setting to set up working hour and day off for your company"
+msgstr ""
+
+#: templates/admin/settings.php:136 tmpl/settings/tmpl-setting.php:2762
+msgid "Custom Fields"
+msgstr ""
+
+#: templates/admin/settings.php:138
+msgid "Add custom fields to booking form"
+msgstr ""
+
+#: templates/admin/sms-template.php:11
+msgid "SMS Template"
+msgstr ""
+
+#: templates/admin/sms-template.php:21 templates/admin/sms-template.php:80
+msgid "Booking Pending Template for Customer"
+msgstr ""
+
+#: templates/admin/sms-template.php:26
+msgid "Booking Approved Template for Customer"
+msgstr ""
+
+#: templates/admin/sms-template.php:31
+msgid "Booking Rejected Template for Customer"
+msgstr ""
+
+#: templates/admin/sms-template.php:36
+msgid "Booking Canceled Template for Customer"
+msgstr ""
+
+#: templates/admin/sms-template.php:73
+msgid ""
+"If you want to use the field in the booking formbuilder, use the field's "
+"name as the keyword. For example if the name of field is txtExtra then the "
+"keyword is {txtExtra}"
+msgstr ""
+
+#: templates/admin/sms-template.php:81
+msgid "On/Off send SMS  for customer"
+msgstr ""
+
+#: templates/shortcodes/flow.php:104
+msgid "Download PDF Order"
+msgstr ""
+
+#: templates/shortcodes/history.php:17
+msgid "Customer code:"
+msgstr ""
+
+#: templates/shortcodes/history.php:19
+msgid "Please input customer code before view history"
+msgstr ""
+
+#: templates/shortcodes/history.php:20
+msgid "Input customer code and click view history"
+msgstr ""
+
+#: templates/shortcodes/history.php:23
+msgid "Appointment date:"
+msgstr ""
+
+#: templates/shortcodes/history.php:42
+msgid "Status:"
+msgstr ""
+
+#: templates/shortcodes/history.php:72
+msgid "Get history"
+msgstr ""
+
+#: templates/shortcodes/history.php:77
+msgid "Get customer code"
+msgstr ""
+
+#: templates/shortcodes/history.php:91
+msgid "Create date"
+msgstr ""
+
+#: templates/shortcodes/history.php:101
+msgid ""
+"Please input customer code and click 'View History' to display your booking "
+"history"
+msgstr ""
+
+#: templates/shortcodes/history.php:103
+msgid "Please click 'View History' to display your booking history"
+msgstr ""
+
+#: templates/shortcodes/history.php:147
+msgid "Your email:"
+msgstr ""
+
+#: templates/shortcodes/history.php:149
+msgid "Please input email before get code"
+msgstr ""
+
+#: templates/shortcodes/history.php:153
+msgid "Get code"
+msgstr ""
+
+#: templates/shortcodes/history.php:169
+msgid "Your customer code:"
+msgstr ""
+
+#: templates/shortcodes/history.php:170
+msgid "Input customer code to cancel booking"
+msgstr ""
+
+#: templates/shortcodes/history.php:171
+msgid "Please input customer code to cancel booking"
+msgstr ""
+
+#: templates/shortcodes/history.php:175
+msgid "Cancel appointment"
+msgstr ""
+
+#: templates/shortcodes/history.php:180 tmpl/quote/tmpl-quote.php:98
+msgid "Close"
+msgstr ""
+
+#: templates/shortcodes/partials/brands.php:25
+#: templates/shortcodes/partials/devices.php:132
+msgid "Change Device Type"
+msgstr ""
+
+#: templates/shortcodes/partials/brands.php:32
+msgid "If you cannot see your brand type listed here please use our "
+msgstr ""
+
+#: templates/shortcodes/partials/category.php:15
+#: templates/shortcodes/partials/services-single.php:42
+#: templates/shortcodes/partials/services.php:49
+msgid "Change Brand Type"
+msgstr ""
+
+#: templates/shortcodes/partials/category.php:22
+#: templates/shortcodes/partials/models.php:36
+msgid "If you cannot see your model type listed here please use our "
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:23
+msgid "Customer Information"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:28
+#: templates/shortcodes/partials/customer-info.php:34
+#: templates/shortcodes/quote_form.php:16
+#: templates/shortcodes/quote_form.php:22 tmpl/customers/tmpl-customers.php:19
+#: tmpl/customers/tmpl-customers.php:23 tmpl/quote/tmpl-quote.php:17
+msgid "First name"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:38
+#: templates/shortcodes/quote_form.php:26 tmpl/customers/tmpl-customers.php:28
+msgid "Please enter first name"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:43
+#: templates/shortcodes/partials/customer-info.php:49
+#: templates/shortcodes/quote_form.php:30
+#: templates/shortcodes/quote_form.php:36 tmpl/customers/tmpl-customers.php:32
+#: tmpl/customers/tmpl-customers.php:36 tmpl/quote/tmpl-quote.php:22
+msgid "Last name"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:53
+#: templates/shortcodes/quote_form.php:40 tmpl/customers/tmpl-customers.php:41
+msgid "Please enter last name"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:70
+#: templates/shortcodes/quote_form.php:56 tmpl/customers/tmpl-customers.php:64
+#: tmpl/settings/tmpl-setting.php:1229
+msgid "Please enter email"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:98
+#: templates/shortcodes/quote_form.php:80 tmpl/customers/tmpl-customers.php:81
+msgid "Other"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:110
+#: templates/shortcodes/quote_form.php:92
+msgid "Please enter phone"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:117
+#: templates/shortcodes/partials/customer-info.php:125
+#: tmpl/booking/tmpl-booking.php:77
+msgid "Postal Code"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:129
+#: templates/shortcodes/quote_form.php:119
+msgid "Please enter postal code"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:134
+#: templates/shortcodes/partials/customer-info.php:142
+#: templates/shortcodes/quote_form.php:98
+#: templates/shortcodes/quote_form.php:101 tmpl/booking/tmpl-booking.php:68
+#: tmpl/garages/tmpl-garages.php:82 tmpl/garages/tmpl-garages.php:85
+#: tmpl/garages/tmpl-garages.php:170 tmpl/locations/tmpl-locations.php:39
+#: tmpl/locations/tmpl-locations.php:42 tmpl/settings/tmpl-setting.php:1192
+#: tmpl/settings/tmpl-setting.php:1197
+msgid "Address"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:146
+#: templates/shortcodes/quote_form.php:105 tmpl/locations/tmpl-locations.php:46
+#: tmpl/settings/tmpl-setting.php:1201
+msgid "Please enter address"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:153
+#: templates/shortcodes/partials/customer-info.php:160
+#: tmpl/booking/tmpl-booking.php:71
+msgid "City"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:164
+msgid "Please enter city"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:169
+#: templates/shortcodes/partials/customer-info.php:177
+#: tmpl/booking/tmpl-booking.php:74
+msgid "Country"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:181
+msgid "Please enter country"
+msgstr ""
+
+#: templates/shortcodes/partials/customer-info.php:245
+msgid "Please enter value for this field"
+msgstr ""
+
+#: templates/shortcodes/partials/delivery-method.php:36
+msgid "My postal code"
+msgstr ""
+
+#: templates/shortcodes/partials/delivery-method.php:41
+msgid ""
+"Can not get your location via postal code. Send your device to our mail-in "
+"repair facility "
+msgstr ""
+
+#: templates/shortcodes/partials/delivery-method.php:50
+msgid "Check availability"
+msgstr ""
+
+#: templates/shortcodes/partials/delivery-method.php:101
+msgid "Change Service"
+msgstr ""
+
+#: templates/shortcodes/partials/devices.php:12
+msgid "Choose group"
+msgstr ""
+
+#: templates/shortcodes/partials/devices.php:46
+msgid "Just a few more details"
+msgstr ""
+
+#: templates/shortcodes/partials/devices.php:113
+msgid "Service type"
+msgstr ""
+
+#: templates/shortcodes/partials/devices.php:143
+msgid "If you cannot see your product type listed here please use our "
+msgstr ""
+
+#: templates/shortcodes/partials/garages.php:58
+#: templates/shortcodes/partials/services-single.php:90
+#: tmpl/quote/tmpl-quote.php:166 tmpl/services/tmpl-services.php:37
+msgid "Detail"
+msgstr ""
+
+#: templates/shortcodes/partials/locations.php:31
+msgid "Change Service Type"
+msgstr ""
+
+#: templates/shortcodes/partials/models.php:29
+msgid "Change Category"
+msgstr ""
+
+#: templates/shortcodes/partials/models.php:56
+msgid "Select color for"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:6
+#: tmpl/settings/tmpl-setting.php:1677
+msgid "Carry-In"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:87
+msgid "Order Review"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:90
+msgid "Order number:"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:93
+msgid "Create date:"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:97
+msgid "Booking date:"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:101
+msgid "First name:"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:104
+msgid "Last name:"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:108
+msgid "Email:"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:112
+msgid "Phone:"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:116
+msgid "Serial number:"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:120
+msgid "Delivery method:"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:126
+msgid "Order detail"
+msgstr ""
+
+#: templates/shortcodes/partials/pdf-content.php:132
+#: templates/shortcodes/partials/pdf-content.php:155
+msgid "Total"
+msgstr ""
+
+#: templates/shortcodes/partials/progress-bar.php:4
+#: tmpl/category/tmpl-category.php:30 tmpl/models/tmpl-models.php:157
+msgid "Select device"
+msgstr ""
+
+#: templates/shortcodes/partials/progress-bar.php:20
+#: tmpl/coupon/tmpl-coupon.php:88 tmpl/coupon/tmpl-coupon.php:113
+msgid "Select service"
+msgstr ""
+
+#: templates/shortcodes/partials/progress-bar.php:24
+msgid "Select delivery"
+msgstr ""
+
+#: templates/shortcodes/partials/progress-bar.php:28
+msgid "Finalize order"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:9
+msgid "Appointment time"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:17
+msgid "Repair Summary:"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:56
+msgid "Discount"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:62
+msgid "Sub total"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:96
+msgid "Onsite"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:103
+#: tmpl/booking/tmpl-booking.php:228 tmpl/settings/tmpl-setting.php:1952
+msgid "Paypal"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:110
+#: tmpl/booking/tmpl-booking.php:232 tmpl/settings/tmpl-setting.php:1956
+msgid "Stripe"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:145
+msgid "Accept the "
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:146
+msgid "terms and conditions "
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:155
+#: templates/shortcodes/partials/services-single.php:26
+#: templates/shortcodes/partials/services.php:33
+msgid "Next"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:163
+msgid "Change "
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:167
+msgid "Change location"
+msgstr ""
+
+#: templates/shortcodes/partials/repair-summary.php:171
+msgid "Change service"
+msgstr ""
+
+#: templates/shortcodes/partials/services-single.php:18
+#: templates/shortcodes/partials/services.php:25
+msgid "Repair List"
+msgstr ""
+
+#: templates/shortcodes/partials/services-single.php:31
+#: templates/shortcodes/partials/services.php:39
+msgid "Add another device"
+msgstr ""
+
+#: templates/shortcodes/partials/services-single.php:47
+#: templates/shortcodes/partials/services.php:54
+msgid "Change Model Type"
+msgstr ""
+
+#: templates/shortcodes/partials/services-single.php:70
+#: templates/shortcodes/partials/services.php:82
+msgid "Select options"
+msgstr ""
+
+#: templates/shortcodes/partials/weekly-calendar.php:8
+msgid "Appointment options"
+msgstr ""
+
+#: templates/shortcodes/partials/weekly-calendar.php:59
+msgid "Select Time"
+msgstr ""
+
+#: templates/shortcodes/quote_form.php:130
+msgid "Please enter brand name"
+msgstr ""
+
+#: templates/shortcodes/quote_form.php:161 tmpl/quote/tmpl-quote.php:77
+msgid "Detail problem"
+msgstr ""
+
+#: templates/shortcodes/quote_form.php:177
+msgid "Please choose image"
+msgstr ""
+
+#: templates/shortcodes/quote_form.php:187
+msgid "Submit"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:50 tmpl/booking/tmpl-booking.php:388
+#: tmpl/services/tmpl-services.php:972
+msgid "Price"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:97
+msgid "Date"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:107
+msgid "Time"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:114
+msgid "Don't have free time slot"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:115 tmpl/booking/tmpl-booking.php:116
+msgid "Select time"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:125
+msgid "Please select time"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:135
+msgid "Serial number "
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:199
+msgid "Paynow"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:201
+msgid ""
+"Click here if you want update payment to Paid, uncheck to update payment to "
+"Pending"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:220 tmpl/settings/tmpl-setting.php:1945
+msgid "Select payment method"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:224 tmpl/settings/tmpl-setting.php:1948
+msgid "Onsite payment"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:236 tmpl/settings/tmpl-setting.php:1960
+msgid "WooCommerce"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:250
+msgid "Service Tax:"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:255
+msgid "Subtotal:"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:259
+msgid "Discount:"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:263
+msgid "Total:"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:284
+msgid "Booking has been saved"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:303
+msgid "View list services"
+msgstr ""
+
+#: tmpl/booking/tmpl-booking.php:365 tmpl/brands/tmpl-brands.php:145
+#: tmpl/category/tmpl-category.php:130 tmpl/color/tmpl-color.php:66
+#: tmpl/coupon/tmpl-coupon.php:200 tmpl/customers/tmpl-customers.php:176
+#: tmpl/devices/tmpl-devices.php:118 tmpl/garages/tmpl-garages.php:197
+#: tmpl/locations/tmpl-locations.php:126 tmpl/models/tmpl-models.php:285
+#: tmpl/services/tmpl-services.php:888
+msgid "Edit"
+msgstr ""
+
+#: tmpl/brands/tmpl-brands.php:11
+msgid "Add new brand"
+msgstr ""
+
+#: tmpl/brands/tmpl-brands.php:30 tmpl/category/tmpl-category.php:78
+#: tmpl/color/tmpl-color.php:22 tmpl/devices/tmpl-devices.php:28
+#: tmpl/locations/tmpl-locations.php:32 tmpl/services/tmpl-services.php:64
+msgid "Please enter name"
+msgstr ""
+
+#: tmpl/brands/tmpl-brands.php:37 tmpl/devices/tmpl-devices.php:35
+#: tmpl/garages/tmpl-garages.php:41 tmpl/models/tmpl-models.php:72
+#: tmpl/services/tmpl-services.php:227
+msgid "Order displayed"
+msgstr ""
+
+#: tmpl/brands/tmpl-brands.php:39 tmpl/devices/tmpl-devices.php:37
+#: tmpl/garages/tmpl-garages.php:43 tmpl/models/tmpl-models.php:74
+#: tmpl/services/tmpl-services.php:229
+msgid "Order displayed on the list"
+msgstr ""
+
+#: tmpl/brands/tmpl-brands.php:65
+msgid "Select devices"
+msgstr ""
+
+#: tmpl/brands/tmpl-brands.php:91 tmpl/devices/tmpl-devices.php:67
+#: tmpl/garages/tmpl-garages.php:129 tmpl/models/tmpl-models.php:203
+#: tmpl/services/tmpl-services.php:292 tmpl/services/tmpl-services.php:867
+msgid "Publish to frontend"
+msgstr ""
+
+#: tmpl/brands/tmpl-brands.php:93
+msgid "If checked, brand will be displayed on booking form"
+msgstr ""
+
+#: tmpl/category/tmpl-category.php:11
+msgid "Add new category"
+msgstr ""
+
+#: tmpl/category/tmpl-category.php:40
+msgid "Please select device"
+msgstr ""
+
+#: tmpl/category/tmpl-category.php:64
+msgid "Please select brand"
+msgstr ""
+
+#: tmpl/category/tmpl-category.php:74
+msgid "Category name"
+msgstr ""
+
+#: tmpl/category/tmpl-category.php:94
+msgid "Category has been saved"
+msgstr ""
+
+#: tmpl/color/tmpl-color.php:3
+msgid "Add new model color"
+msgstr ""
+
+#: tmpl/color/tmpl-color.php:14 tmpl/color/tmpl-color.php:54
+msgid "Color Name"
+msgstr ""
+
+#: tmpl/color/tmpl-color.php:18
+msgid "Color name"
+msgstr ""
+
+#: tmpl/color/tmpl-color.php:38
+msgid "Color has been saved"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:11
+msgid "Add new coupon"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:16
+msgid "Coupon code"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:22
+msgid "Please enter coupon code"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:36
+msgid "Select discount type"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:43
+msgid "Please select discount type"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:48
+msgid "Discount amount"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:56
+msgid "Please enter discount amount"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:72
+msgid "Expiry Date"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:83
+msgid "Apply for services"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:92 tmpl/coupon/tmpl-coupon.php:117
+msgid "Search service..."
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:108
+msgid "Exclude services"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:142
+msgid "Please enter times to use"
+msgstr ""
+
+#: tmpl/coupon/tmpl-coupon.php:161
+msgid "Coupon has been saved"
+msgstr ""
+
+#: tmpl/customers/tmpl-customers.php:14
+msgid "Add new customer"
+msgstr ""
+
+#: tmpl/customers/tmpl-customers.php:96
+msgid "Date of birth"
+msgstr ""
+
+#: tmpl/customers/tmpl-customers.php:131
+msgid "Customer has been saved"
+msgstr ""
+
+#: tmpl/devices/tmpl-devices.php:11
+msgid "Add new devices"
+msgstr ""
+
+#: tmpl/devices/tmpl-devices.php:24
+msgid "Device name"
+msgstr ""
+
+#: tmpl/devices/tmpl-devices.php:69
+msgid "If checked, device will be displayed on booking form"
+msgstr ""
+
+#: tmpl/garages/tmpl-garages.php:13
+msgid "Add new garage"
+msgstr ""
+
+#: tmpl/garages/tmpl-garages.php:25 tmpl/garages/tmpl-garages.php:29
+msgid "Garage name"
+msgstr ""
+
+#: tmpl/garages/tmpl-garages.php:34
+msgid "Please enter garage name"
+msgstr ""
+
+#: tmpl/garages/tmpl-garages.php:94 tmpl/locations/tmpl-locations.php:54
+msgid "Map"
+msgstr ""
+
+#: tmpl/garages/tmpl-garages.php:112 tmpl/services/tmpl-services.php:275
+msgid "Description"
+msgstr ""
+
+#: tmpl/garages/tmpl-garages.php:131
+msgid "If checked, garage will be displayed on booking form"
+msgstr ""
+
+#: tmpl/garages/tmpl-garages.php:149
+msgid "Garage has been saved"
+msgstr ""
+
+#: tmpl/garages/tmpl-garages.php:184 tmpl/models/tmpl-models.php:267
+msgid "Active"
+msgstr ""
+
+#: tmpl/garages/tmpl-garages.php:186 tmpl/models/tmpl-models.php:269
+msgid "InActive"
+msgstr ""
+
+#: tmpl/locations/tmpl-locations.php:13
+msgid "Add new location"
+msgstr ""
+
+#: tmpl/locations/tmpl-locations.php:28
+msgid "Location name"
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:23
+msgid "Add new model"
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:35 tmpl/models/tmpl-models.php:39
+msgid "Model name"
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:44
+msgid "Please enter model name"
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:68 tmpl/services/tmpl-services.php:87
+msgid "Please select category"
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:99
+msgid "Select color"
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:114
+msgid " (ex: Iphone, Ipad,...)"
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:120
+msgid "Select "
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:205
+msgid "If checked, model will be displayed on booking form"
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:223
+msgid "Model has been saved"
+msgstr ""
+
+#: tmpl/models/tmpl-models.php:279 tmpl/services/tmpl-services.php:334
+#: tmpl/services/tmpl-services.php:418 tmpl/services/tmpl-services.php:502
+#: tmpl/services/tmpl-services.php:590 tmpl/services/tmpl-services.php:674
+#: tmpl/services/tmpl-services.php:882 tmpl/settings/tmpl-setting.php:2241
+#: tmpl/settings/tmpl-setting.php:2329 tmpl/settings/tmpl-setting.php:2417
+#: tmpl/settings/tmpl-setting.php:2505 tmpl/settings/tmpl-setting.php:2593
+msgid "Clone"
+msgstr ""
+
+#: tmpl/quote/tmpl-quote.php:86
+msgid "Attached image"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:34
+msgid "Add new service"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:39
+msgid "Price & Attribute"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:40 tmpl/settings/tmpl-setting.php:2222
+msgid "Schedule"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:41 tmpl/settings/tmpl-setting.php:2223
+msgid "Day off"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:59
+msgid "Service name"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:68
+msgid "Apply for model"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:104
+msgid "Select duration"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:116 tmpl/settings/tmpl-setting.php:2900
+msgid "Break time"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:118
+msgid "Time after the appointment (rest, clean up,...)"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:127
+msgid "Select break time"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:130
+msgid "No break times"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:143
+msgid "Tax(%)"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:159 tmpl/settings/tmpl-setting.php:325
+msgid "Please enter tax"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:163
+msgid "Maximum Capacity"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:165
+msgid "Maximum number of device per one booking of this service"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:186 tmpl/settings/tmpl-setting.php:48
+msgid "Service types"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:191
+msgid "Select type"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:206
+msgid "Service can do together"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:211
+msgid "Select service do together"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:266
+msgid "Please enter garage"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:294
+msgid "If checked, services will be displayed on booking form"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:314
+msgid "Add attribute & price"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:327 tmpl/services/tmpl-services.php:427
+#: tmpl/services/tmpl-services.php:511 tmpl/services/tmpl-services.php:599
+#: tmpl/services/tmpl-services.php:683 tmpl/settings/tmpl-setting.php:2234
+#: tmpl/settings/tmpl-setting.php:2338 tmpl/settings/tmpl-setting.php:2426
+#: tmpl/settings/tmpl-setting.php:2514 tmpl/settings/tmpl-setting.php:2602
+msgid "Monday"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:337 tmpl/settings/tmpl-setting.php:2244
+msgid "Applies monday shedule to:"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:343 tmpl/services/tmpl-services.php:411
+#: tmpl/services/tmpl-services.php:518 tmpl/services/tmpl-services.php:606
+#: tmpl/services/tmpl-services.php:690 tmpl/settings/tmpl-setting.php:2250
+#: tmpl/settings/tmpl-setting.php:2322 tmpl/settings/tmpl-setting.php:2433
+#: tmpl/settings/tmpl-setting.php:2521 tmpl/settings/tmpl-setting.php:2609
+msgid "Tuesday"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:350 tmpl/services/tmpl-services.php:434
+#: tmpl/services/tmpl-services.php:495 tmpl/services/tmpl-services.php:614
+#: tmpl/services/tmpl-services.php:698 tmpl/settings/tmpl-setting.php:2257
+#: tmpl/settings/tmpl-setting.php:2345 tmpl/settings/tmpl-setting.php:2410
+#: tmpl/settings/tmpl-setting.php:2529 tmpl/settings/tmpl-setting.php:2617
+msgid "Wednesday"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:358 tmpl/services/tmpl-services.php:442
+#: tmpl/services/tmpl-services.php:526 tmpl/services/tmpl-services.php:583
+#: tmpl/services/tmpl-services.php:705 tmpl/settings/tmpl-setting.php:2265
+#: tmpl/settings/tmpl-setting.php:2353 tmpl/settings/tmpl-setting.php:2441
+#: tmpl/settings/tmpl-setting.php:2498 tmpl/settings/tmpl-setting.php:2624
+msgid "Thursday"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:365 tmpl/services/tmpl-services.php:449
+#: tmpl/services/tmpl-services.php:533 tmpl/services/tmpl-services.php:621
+#: tmpl/services/tmpl-services.php:667 tmpl/settings/tmpl-setting.php:2272
+#: tmpl/settings/tmpl-setting.php:2360 tmpl/settings/tmpl-setting.php:2448
+#: tmpl/settings/tmpl-setting.php:2536 tmpl/settings/tmpl-setting.php:2586
+msgid "Friday"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:372 tmpl/services/tmpl-services.php:456
+#: tmpl/services/tmpl-services.php:540 tmpl/services/tmpl-services.php:628
+#: tmpl/services/tmpl-services.php:712 tmpl/services/tmpl-services.php:751
+#: tmpl/settings/tmpl-setting.php:2279 tmpl/settings/tmpl-setting.php:2367
+#: tmpl/settings/tmpl-setting.php:2455 tmpl/settings/tmpl-setting.php:2543
+#: tmpl/settings/tmpl-setting.php:2631 tmpl/settings/tmpl-setting.php:2674
+msgid "Saturday"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:379 tmpl/services/tmpl-services.php:463
+#: tmpl/services/tmpl-services.php:547 tmpl/services/tmpl-services.php:635
+#: tmpl/services/tmpl-services.php:719 tmpl/services/tmpl-services.php:774
+#: tmpl/settings/tmpl-setting.php:2286 tmpl/settings/tmpl-setting.php:2374
+#: tmpl/settings/tmpl-setting.php:2462 tmpl/settings/tmpl-setting.php:2550
+#: tmpl/settings/tmpl-setting.php:2638 tmpl/settings/tmpl-setting.php:2701
+msgid "Sunday"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:385 tmpl/services/tmpl-services.php:469
+#: tmpl/services/tmpl-services.php:553 tmpl/services/tmpl-services.php:641
+#: tmpl/services/tmpl-services.php:725 tmpl/settings/tmpl-setting.php:2292
+#: tmpl/settings/tmpl-setting.php:2380 tmpl/settings/tmpl-setting.php:2468
+#: tmpl/settings/tmpl-setting.php:2556 tmpl/settings/tmpl-setting.php:2644
+msgid "Applies"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:400 tmpl/services/tmpl-services.php:484
+#: tmpl/services/tmpl-services.php:568 tmpl/services/tmpl-services.php:656
+#: tmpl/services/tmpl-services.php:740 tmpl/services/tmpl-services.php:763
+#: tmpl/services/tmpl-services.php:786 tmpl/settings/tmpl-setting.php:2307
+#: tmpl/settings/tmpl-setting.php:2395 tmpl/settings/tmpl-setting.php:2483
+#: tmpl/settings/tmpl-setting.php:2571 tmpl/settings/tmpl-setting.php:2659
+#: tmpl/settings/tmpl-setting.php:2686 tmpl/settings/tmpl-setting.php:2713
+msgid "Add work hour"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:421 tmpl/settings/tmpl-setting.php:2332
+msgid "Applies tuesday's schedule to:"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:505 tmpl/settings/tmpl-setting.php:2420
+msgid "Applies wednesday's schedule to:"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:573 tmpl/settings/tmpl-setting.php:2312
+#: tmpl/settings/tmpl-setting.php:2400 tmpl/settings/tmpl-setting.php:2488
+#: tmpl/settings/tmpl-setting.php:2576 tmpl/settings/tmpl-setting.php:2664
+#: tmpl/settings/tmpl-setting.php:2691 tmpl/settings/tmpl-setting.php:2718
+msgid "Add break time"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:593 tmpl/settings/tmpl-setting.php:2508
+msgid "Applies thursday's schedule to:"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:677 tmpl/settings/tmpl-setting.php:2596
+msgid "Applies friday's schedule to:"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:804 tmpl/settings/tmpl-setting.php:2736
+msgid "Add day off"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:821
+msgid "Service has been saved"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:829
+msgid "Your changes related to specific settings for each employee."
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:831
+msgid "Do you want to update employee settings according to this setting ?"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:900 tmpl/settings/tmpl-setting.php:2867
+msgid "Work hour"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:950
+msgid "Attribute name"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:953
+msgid "Attribute title"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:956
+msgid "Please select attribute title"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:961 tmpl/services/tmpl-services.php:964
+msgid "Attribute value"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:967
+msgid "Please select attribute value"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:977
+msgid "Service price"
+msgstr ""
+
+#: tmpl/services/tmpl-services.php:981
+msgid "Please enter price"
+msgstr ""
+
+#: tmpl/settings/tmpl-email-template.php:11
+msgid "Send Test Email"
+msgstr ""
+
+#: tmpl/settings/tmpl-email-template.php:16
+#: tmpl/settings/tmpl-email-template.php:20
+msgid "Recipient Email"
+msgstr ""
+
+#: tmpl/settings/tmpl-email-template.php:24
+msgid "Please enter recipient email"
+msgstr ""
+
+#: tmpl/settings/tmpl-email-template.php:36 tmpl/settings/tmpl-setting.php:1463
+msgid "Please input valid email"
+msgstr ""
+
+#: tmpl/settings/tmpl-email-template.php:37
+msgid "Email test has been send, please check mailbox"
+msgstr ""
+
+#: tmpl/settings/tmpl-email-template.php:40
+msgid "Send"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:16
+msgid "General setting"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:21
+msgid "Model groups (use  , to split between each group)"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:23
+msgid "Example: Iphone, Ipad, Airpod"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:30
+msgid "Model groups"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:39
+msgid "Service types (use , to split between each type)"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:41
+msgid "Example: Screen, Mainboard, Associate"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:55
+msgid "Do not use Date Time"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:57
+msgid ""
+"If select Yes, the plugin do not change duplicate date time when the client "
+"make a booking"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:65 tmpl/settings/tmpl-setting.php:202
+#: tmpl/settings/tmpl-setting.php:246 tmpl/settings/tmpl-setting.php:271
+msgid "Select option"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:80 tmpl/settings/tmpl-setting.php:89
+msgid "Mapbox API Key"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:82
+msgid "This is key that connect to Mapbox API. Set blank to skip Map"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:96
+msgid "Distance near me"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:113
+msgid "Unit"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:119
+msgid "Select Unit"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:122
+msgid "Miles"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:125
+msgid "Kilometers"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:134
+msgid "Default calendar view"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:136
+msgid "Set up default view for calendar."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:144
+msgid "Select view"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:147
+msgid "Month"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:150
+msgid "Week"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:153
+msgid "Day"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:156
+msgid "List"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:165
+msgid "Default booking status"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:167
+msgid "Set up default booking status when add new booking."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:192
+msgid "Limit booking"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:194
+msgid ""
+"If select Yes, allow each customer to book only 1 time in a \"Limited time\""
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:217
+msgid "Limited time (minutes)"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:236
+msgid "Disable current date booking"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:238
+msgid "If select Yes, client can not make a booking for current date."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:261
+msgid "Allow client cancel booking"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:263
+msgid "If select Yes, client can be cancel booking from booking history."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:286
+msgid "Cancel booking before (hours)"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:305
+msgid "Default service tax"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:307
+msgid "Set up default value for Tax field in new service form."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:317
+msgid "Select tax"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:329
+msgid "Default items per page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:332
+msgid "Use to set up paging for list."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:351
+msgid "Duration step"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:353 tmpl/settings/tmpl-setting.php:398
+msgid "Default is 15 minute, but you can setting from 5 minutes to 60 minutes."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:363
+msgid "Select duration step"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:366 tmpl/settings/tmpl-setting.php:368
+#: tmpl/settings/tmpl-setting.php:370 tmpl/settings/tmpl-setting.php:372
+#: tmpl/settings/tmpl-setting.php:374 tmpl/settings/tmpl-setting.php:376
+#: tmpl/settings/tmpl-setting.php:378 tmpl/settings/tmpl-setting.php:380
+#: tmpl/settings/tmpl-setting.php:382 tmpl/settings/tmpl-setting.php:384
+#: tmpl/settings/tmpl-setting.php:386 tmpl/settings/tmpl-setting.php:388
+#: tmpl/settings/tmpl-setting.php:390 tmpl/settings/tmpl-setting.php:411
+#: tmpl/settings/tmpl-setting.php:413 tmpl/settings/tmpl-setting.php:415
+#: tmpl/settings/tmpl-setting.php:417 tmpl/settings/tmpl-setting.php:419
+#: tmpl/settings/tmpl-setting.php:421 tmpl/settings/tmpl-setting.php:423
+#: tmpl/settings/tmpl-setting.php:425 tmpl/settings/tmpl-setting.php:427
+#: tmpl/settings/tmpl-setting.php:429 tmpl/settings/tmpl-setting.php:431
+#: tmpl/settings/tmpl-setting.php:433 tmpl/settings/tmpl-setting.php:435
+msgid "minutes"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:396
+msgid "Time step"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:408
+msgid "Select time step"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:448
+msgid "Do not allow booking before"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:451
+msgid ""
+"Do not allow booking before 1,2 or more days. Set 0 to ignore this limit"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:468
+msgid "Day limit"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:471
+msgid "How far in the future the clients can book."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:493
+msgid "Default phone country code"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:495
+msgid "This is the phone code shown by default in the booking form."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:517 tmpl/settings/tmpl-setting.php:522
+msgid "Choose category title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:529 tmpl/settings/tmpl-setting.php:534
+msgid "Device step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:541 tmpl/settings/tmpl-setting.php:546
+msgid "Device step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:553 tmpl/settings/tmpl-setting.php:558
+msgid "Brand step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:565 tmpl/settings/tmpl-setting.php:570
+msgid "Brand step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:577 tmpl/settings/tmpl-setting.php:582
+msgid "Category step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:589 tmpl/settings/tmpl-setting.php:594
+msgid "Category step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:601 tmpl/settings/tmpl-setting.php:606
+msgid "Model step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:613 tmpl/settings/tmpl-setting.php:618
+msgid "Model step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:625 tmpl/settings/tmpl-setting.php:630
+msgid "Service step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:637 tmpl/settings/tmpl-setting.php:642
+msgid "Service type filter title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:649 tmpl/settings/tmpl-setting.php:654
+msgid "Service step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:661
+msgid "Delivery method step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:666
+msgid "Delivery step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:673
+msgid "Delivery method step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:678
+msgid "Delivery step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:685 tmpl/settings/tmpl-setting.php:690
+msgid "Location step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:697 tmpl/settings/tmpl-setting.php:702
+msgid "Location step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:709 tmpl/settings/tmpl-setting.php:714
+msgid "Garage step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:721 tmpl/settings/tmpl-setting.php:726
+msgid "Garage step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:733 tmpl/settings/tmpl-setting.php:738
+msgid "Appointment step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:745 tmpl/settings/tmpl-setting.php:750
+msgid "Appointment step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:757 tmpl/settings/tmpl-setting.php:762
+msgid "Completed step title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:769 tmpl/settings/tmpl-setting.php:774
+msgid "Completed step subtitle"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:781 tmpl/settings/tmpl-setting.php:790
+msgid "Device label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:783
+msgid "This is label of device what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:797 tmpl/settings/tmpl-setting.php:806
+msgid "Brand label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:799
+msgid "This is label of brand what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:813 tmpl/settings/tmpl-setting.php:822
+msgid "Model label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:815
+msgid "This is model of brand what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:829 tmpl/settings/tmpl-setting.php:838
+msgid "Service label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:831
+msgid "This is label of service what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:845 tmpl/settings/tmpl-setting.php:854
+msgid "Garage label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:847
+msgid "This is label of garage what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:861 tmpl/settings/tmpl-setting.php:870
+msgid "Group label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:863
+msgid "This is label of group what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:877
+msgid "Serial (or IMEI) number label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:879
+msgid "This is label of serial what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:886
+msgid "Serial label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:893 tmpl/settings/tmpl-setting.php:903
+msgid "Payment method label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:895
+msgid ""
+"This is label of payment method what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:910 tmpl/settings/tmpl-setting.php:920
+msgid "Appointment time label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:912
+msgid "This is label of appointment what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:927 tmpl/settings/tmpl-setting.php:933
+msgid "Tax label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:940 tmpl/settings/tmpl-setting.php:950
+msgid "Total cost label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:942
+msgid "This is label of total cost what show up in booking form at frontend."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:963
+msgid "Enable multiple device"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:980
+msgid "Enable Quote Form"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:987
+msgid "Quote page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:989
+msgid "The page will be open when click quote form on the booking"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:997
+msgid "Select quote page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1002 tmpl/settings/tmpl-setting.php:1079
+#: tmpl/settings/tmpl-setting.php:2096
+msgid "Fill page title..."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1029
+msgid "Enable Upload Image in quote form"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1035
+msgid "Max file size (Mb)"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1068
+msgid "Term & Condition Page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1074
+msgid "Select term & condition page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1096
+msgid "Enable"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1098
+msgid ""
+"In some case, it have conflict between default modal popup and date time "
+"picker. With this case, you can enable use default modal popup or date time "
+"picker of theme"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1111
+msgid "Modal popup"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1123
+msgid "Datetime picker"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1129
+msgid "Disable scroll animation"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1131
+msgid "Turn off scroll to top animation"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1159 tmpl/settings/tmpl-setting.php:1243
+#: tmpl/settings/tmpl-setting.php:1480 tmpl/settings/tmpl-setting.php:1576
+#: tmpl/settings/tmpl-setting.php:1745
+msgid "Setting has been saved"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1170
+msgid "Company setting"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1180
+msgid "Company name"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1185
+msgid "Please enter company name"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1254
+msgid "Notification setting"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1259
+msgid "Mailer"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1261
+msgid "Set up mail server which handler all outgoing email from your website."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1269
+msgid "Select mail server"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1272
+msgid "Default (use mail server from your hosting) "
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1275
+msgid "SMTP"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1278
+msgid "Use config via Post SMTP plugin"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1287 tmpl/settings/tmpl-setting.php:1291
+msgid "SMTP Host"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1294
+msgid "Please enter SMTP Host"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1299 tmpl/settings/tmpl-setting.php:1303
+msgid "SMTP Port"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1306
+msgid "Please enter SMTP Port"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1312
+msgid "Encryption"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1322
+msgid "None"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1334
+msgid "TLS"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1346
+msgid "SSL"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1354 tmpl/settings/tmpl-setting.php:1358
+msgid "SMTP Username"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1361
+msgid "Please enter SMTP Username"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1366 tmpl/settings/tmpl-setting.php:1372
+msgid "SMTP Password"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1375
+msgid "Please enter SMTP Password"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1382
+msgid "Send from mail"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1388
+msgid "From mail"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1392
+msgid "Please enter from email address"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1399
+msgid "Send from name"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1405
+msgid "From name"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1409
+msgid "Please enter from name"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1416
+msgid "Employee email"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1418
+msgid ""
+"Notice will be sent to this email when the customer creates an appointment"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1431
+msgid "CC to"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1441
+msgid "BCC to"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1452 tmpl/settings/tmpl-setting.php:1453
+msgid "Test send mail"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1453
+msgid "Close test send mail"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1464
+msgid "Send mail"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1491
+msgid "SMS Notification setting"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1496
+msgid "SMS Provider"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1498
+msgid "Select SMS provider."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1505
+msgid "Select SMS provider"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1517
+msgid "Your phone number"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1527
+msgid "Account SID (AUTHEN_ID)"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1537
+msgid "Authen Token (AUTH_TOKEN)"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1548
+msgid "Test send sms"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1549
+msgid "Close test send sms"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1549
+msgid "Test send SMS"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1557
+msgid "Input phone number"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1560
+msgid "Please input valid phone number"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1561
+msgid "Send SMS"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1587
+msgid "Delivery setting"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1599
+msgid "Enable fix at home"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1609
+msgid "Fix at home image"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1614 tmpl/settings/tmpl-setting.php:1619
+msgid "Fix at home title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1624
+msgid "Fix at home description"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1632
+msgid "Fix at home fee (set empty to ignore this fee)"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1657
+msgid "Enable Carry-In/Curbside"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1667
+msgid "Carry-In image"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1672
+msgid "Carry-In title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1682
+msgid "Carry-In description"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1700
+msgid "Enable Mail-In Delivery"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1711
+msgid "Mail-In Delivery image"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1716
+msgid "Mail-In Delivery title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1721
+msgid "Mail-In Delivery Title"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1726
+msgid "Mail-In Delivery description"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1756
+msgid "Payment setting"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1770
+msgid "Required phone field in booking form"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1785
+msgid "Required postal code field in booking form"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1800
+msgid "Required address field in booking form"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1815
+msgid "Required city field in booking form"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1830
+msgid "Required country field in booking form"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1845
+msgid "Hide price for service"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1846
+msgid ""
+"If you select this, the plugin doesn't use price for service  and hide the "
+"payment method in the booking form "
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1855
+msgid "Number of decimals"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1858
+msgid ""
+"Specify the number of decimals. Ex: if price is 510 and currency decimal is "
+"2, the price displayed will be 510.00"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1877
+msgid "Currency"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1881 tmpl/settings/tmpl-setting.php:1907
+msgid "Select currency"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1886
+msgid "Search currency..."
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1902
+msgid "Price symbol position"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1910
+msgid "Before "
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1913
+msgid "After "
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1930
+msgid "Hide payment method"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1931
+msgid ""
+"If you select this, the payment method section on booking form will be hide"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:1940
+msgid "Default payment method"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2005
+msgid "Redirect to page when click Confirm Booking"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2010
+msgid "Select page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2013
+msgid "WooCommerce Cart page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2029
+msgid "Or redirect to another url when click Confirm Booking"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2040
+msgid "Paypal Mode"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2045 tmpl/settings/tmpl-setting.php:2162
+msgid "Select mode"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2048
+msgid "Sandbox mode"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2051 tmpl/settings/tmpl-setting.php:2168
+msgid "Live mode"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2059
+msgid "Client ID"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2069
+msgid "Secret"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2081
+msgid "Success page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2083
+msgid "The page will be opened when payment success"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2091
+msgid "Select success page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2114
+msgid "Error page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2116
+msgid "The page will be opened when payment fail"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2124
+msgid "Select error page"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2157
+msgid "Stripe Mode"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2165
+msgid "Test mode"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2177
+msgid "Publish Key"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2187
+msgid "Secret Key"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2207
+msgid "Payment setting has been saved"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2218
+msgid "Working hours setting"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2750
+msgid "Please select working hour before save"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2751
+msgid "Working hours setting has been saved"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2777 tmpl/settings/tmpl-setting.php:2948
+msgid "Field type"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2782 tmpl/settings/tmpl-setting.php:2951
+msgid "Select field type"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2786 tmpl/settings/tmpl-setting.php:2954
+msgid "Text box"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2788 tmpl/settings/tmpl-setting.php:2955
+msgid "Text area"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2790 tmpl/settings/tmpl-setting.php:2956
+msgid "Number"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2795 tmpl/settings/tmpl-setting.php:2961
+msgid "Label"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2802 tmpl/settings/tmpl-setting.php:2967
+msgid "Place holder"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2810 tmpl/settings/tmpl-setting.php:2974
+msgid "Required"
+msgstr ""
+
+#: tmpl/settings/tmpl-setting.php:2853
+msgid "Custom field has been saved"
+msgstr ""
